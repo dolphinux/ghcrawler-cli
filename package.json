@@ -4,7 +4,7 @@
   "description": "A simple command line app for controlling a GitHub Crawler",
   "main": "./lib/crawlerClient.js",
   "scripts": {
-    "start": "node ./bin/cc.js"
+    "start": "node ./bin/cc"
   },
   "keywords": [
     "cli",
